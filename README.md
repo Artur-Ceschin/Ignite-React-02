@@ -11,7 +11,7 @@ This project has the goal to show films according to the their categories.
 
 ## See how it works 📸
 
-![gif dio projeto](./src/Github/watchmw.gif)
+![gif dio projeto](./src/GitHub/watchmw.gif)
 
 ## Features
 
